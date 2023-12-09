@@ -1,0 +1,165 @@
+@media screen and (max-width: 770px) {
+    .images-container {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        margin-bottom: 70px; 
+    }
+
+    .images-container input[type="image"] {
+        width: 100%; 
+        max-width: 550px; 
+        margin: 10px 0; 
+    }
+
+}
+
+ .portfolio {
+    text-align: center;
+}
+.portfolio h1 {
+    text-transform: uppercase;
+}
+.portfolio h3 {
+    color: gray;
+} 
+
+#one-three {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+}
+.one-three {
+    margin-top: 3%;
+}
+#two-three {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+}
+.two-three {
+    margin-top: 5%;
+}
+
+#threads {
+    width: 350px;
+}
+.threads {
+    position: relative;
+    border: 10px solid #f8f9fa;
+    height: 350px;
+    background-color: #f8f9fa;
+    width: 350px;
+    text-align: center;
+}
+.threads h2 {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+.threads h3 {
+    margin-top: 0px;
+    color: gray;
+}
+
+#explore {
+    width: 350px;
+}
+.explore {
+    position: relative;
+    border: 10px solid #f8f9fa;
+    height: 350px;
+    background-color: #f8f9fa;
+    width: 350px;
+    text-align: center;
+}
+.explore h2 {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+.explore h3 {
+    margin-top: 0px;
+    color: gray;
+}
+
+#finish {
+    width: 350px;
+}
+.finish {
+    position: relative;
+    border: 10px solid #f8f9fa;
+    height: 350px;
+    background-color: #f8f9fa;
+    width: 350px;
+    text-align: center;
+}
+.finish h2 {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+.finish h3 {
+    margin-top: 0px;
+    color: gray;
+}
+
+#lines {
+    width: 350px;
+}
+
+.lines {
+    position: relative;
+    border: 10px solid #f8f9fa;
+    height: 350px;
+    background-color: #f8f9fa;
+    width: 350px;
+    text-align: center;
+}
+.lines h2 {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+.lines h3 {
+    margin-top: 0px;
+    color: gray;
+}
+
+#southwest {
+    width: 350px;
+}
+.southwest {
+    position: relative;
+    border: 10px solid #f8f9fa;
+    height: 350px;
+    background-color: #f8f9fa;
+    width: 350px;
+    text-align: center;
+}
+.southwest h2 {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+.southwest h3 {
+    margin-top: 0px;
+    color: gray;
+}
+
+#window {
+    width: 350px;
+}
+.window {
+    position: relative;
+    border: 10px solid #f8f9fa;
+    height: 350px;
+    background-color: #f8f9fa;
+    width: 350px;
+    text-align: center;
+}
+.window h2 {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+.window h3 {
+    margin-top: 0px;
+    color: gray;
+}
